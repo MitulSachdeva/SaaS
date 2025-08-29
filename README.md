@@ -1,6 +1,6 @@
 # SaaS App 🚀
 
-A modern SaaS web application built with **React**, **Tailwind CSS**, and **Node.js/Express** (update this stack if different).  
+A modern SaaS web application built with **React**, **Tailwind CSS**, and **Node.js/Express** 
 The project is structured for scalability, performance, and clean UI.
 
 ---
